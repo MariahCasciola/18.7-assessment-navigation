@@ -1,3 +1,3 @@
 # starter-joey-thinkful
 
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+This is my final assessment for module 18.7.
